@@ -1,6 +1,6 @@
-### Olá, seja bem-vindo! 👋 Eu sou Maria Eduarda 
-- 🌱 Estudando área de front-end
-- 😄 Pronome: ela/dela
+### Hello, welcome to my profile! 👋 I'm Maria Eduarda 
+- 🌱 Studying front-end
+- 😄 Pronoun: she/her
 
 <div>
 <a href="https://github.com/eduardaaraujoo">

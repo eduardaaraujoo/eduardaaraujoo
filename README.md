@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#88CACD&height=180&section=header&text=Maria%20Eduarda%20Araújo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e95ca3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Maria+Eduarda+Araújo;I'm+26+years+old;I+from+Brazil,+PE;I+study+systems+development+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduardaaraujoo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaaraujoo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
@@ -37,3 +37,5 @@
   <a href = "mailto:eduardasaraujo97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-eduarda-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+![Snake animation](https://github.com/paolandrad/paolandrad/blob/output/github-contribution-grid-snake.svg)

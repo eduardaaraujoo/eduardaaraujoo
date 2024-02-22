@@ -26,6 +26,7 @@
   
 ### Studying in this moment:
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-react%20native-0D1117?style=for-the-badge&logo=react-native&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
   <div align="center">

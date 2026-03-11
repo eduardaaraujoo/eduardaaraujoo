@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#fff&height=180&section=header&text=Maria%20Eduarda%20Araújo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e95ca3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Maria+Eduarda+Araújo;I'm+26+years+old;I+from+Brazil,+PE;I+study+systems+development+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e95ca3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Maria+Eduarda+Araújo;I'm+28+years+old;I+from+Brazil,+PE;I+am+fron-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduardaaraujoo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
